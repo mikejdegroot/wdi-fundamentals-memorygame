@@ -50,6 +50,16 @@ img {
 	margin: 40px 8px;
 }
 
+button {
+	margin: 0px 10px 30px 10px;
+	color: white;
+	background-color: #F15B31;
+	font-family: raleway;
+	font-size: 20px;
+	border-width: 2px;
+    border-radius: 5px;
+}
+
 footer {
 	text-transform: uppercase;
 	padding: 0 20px;

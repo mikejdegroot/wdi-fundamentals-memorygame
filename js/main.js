@@ -55,6 +55,7 @@ var createBoard = function (){
 		cardElement.setAttribute('data-id', i);
 		cardElement.addEventListener('click', flipCard);
 		document.getElementById('game-board').appendChild(cardElement);
+
 	}
 	};
 
